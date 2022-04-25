@@ -3,7 +3,7 @@
 A simple app that calculates tip for a given amount
 
 ## Screenshot
-add screenshot here
+![Screenshot](/01_screenshot.jpg)
 
 ## Skills learned
 - Stateful widgets
