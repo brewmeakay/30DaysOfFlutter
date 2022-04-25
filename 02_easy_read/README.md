@@ -1,16 +1,12 @@
-# easy_read
+# Easy read 
 
-A new Flutter project.
+An app to enlarge the size of an given text. especially helpful for people with Eyesight problems
 
-## Getting Started
+## Screenshot
+![Screenshot](https://github.com/brewmeakay/30DaysOfFlutter/blob/main/02_easy_read/02_screenshot.gif)
 
-This project is a starting point for a Flutter application.
+## Skills learned
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Slider
+- Anonymous Functions
+- more Textfield properties
